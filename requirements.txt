@@ -4,4 +4,4 @@ sounddevice
 librosa==0.10.0.post2
 soundfile 
 scikit-learn
-portaudio 
+portaudio-devel 
