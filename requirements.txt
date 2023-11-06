@@ -1,6 +1,6 @@
 streamlit==0.88.0
 numpy==1.21.2
-libportaudio2 
+audiolayer
 sounddevice
 librosa==0.8.1
 soundfile==0.10.3.post1
