@@ -1,5 +1,7 @@
 streamlit==0.88.0
 numpy==1.21.2
+portaudio19-dev
+pyaudio 
 sounddevice==0.4.1
 librosa==0.8.1
 soundfile==0.10.3.post1
