@@ -4,13 +4,32 @@ EmoAudio is a cutting-edge web application designed to decipher emotions from sp
 Features:
 
 Upload Audio: Seamlessly upload audio files in WAV format for emotion analysis.
+
 Record Audio: Capture your voice directly through the app for instant emotional insights.
+
 Real-time Emotion Recognition: EmoAudio processes audio clips in real time, providing swift and accurate emotion predictions.
+
 Audio Playback: Listen to the uploaded or recorded audio to understand the emotional tone.
+
 User-friendly Interface: EmoAudio offers an intuitive interface for effortless user interaction and quick emotion analysis.
+
 How to Use:
 
 Choose an option: "Upload Audio File" or "Record Audio."
+
 Upload Audio File: Click "Upload an audio file..." and select a WAV file from your device. EmoAudio will swiftly analyze the emotional context of the audio.
+
 Record Audio: Click "Record Audio," speak into the microphone, and witness EmoAudio's instant emotion recognition based on your speech.
+
 After processing, EmoAudio displays the predicted emotion, allowing users to delve into the emotional nuances of the provided audio.
+
+
+
+
+
+
+![Screenshot (286)](https://github.com/YugantGotmare/EmoAudio-Decode-Emotions-from-Spoken-Words/assets/101650315/6f5d1d7e-840e-47c4-b179-ef449d201092)
+
+
+
+
